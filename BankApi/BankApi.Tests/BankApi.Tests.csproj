@@ -22,4 +22,8 @@
         <Using Include="Xunit"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\BankApi.Infrastructure\BankApi.Infrastructure.csproj" />
+    </ItemGroup>
+
 </Project>
